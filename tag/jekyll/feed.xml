@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://jasonkwak190.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://jasonkwak190.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-08-02T20:40:59+09:00</updated>
+  <updated>2021-08-02T23:20:27+09:00</updated>
   <id>https://jasonkwak190.github.io/tag/jekyll/feed.xml</id>
 
   
@@ -32,12 +32,12 @@
 
   
     <entry>
-      <title type="html">jekyll 강좌(1) - jekyll 기본</title>
-      <link href="https://jasonkwak190.github.io/jekyll-basic" rel="alternate" type="text/html" title="jekyll 강좌(1) - jekyll 기본" />
+      <title type="html">연습용 테스트</title>
+      <link href="https://jasonkwak190.github.io/jekyll-basic" rel="alternate" type="text/html" title="연습용 테스트" />
       <published>2020-06-09T01:40:00+09:00</published>
       <updated>2020-06-09T01:40:00+09:00</updated>
       <id>https://jasonkwak190.github.io/jekyll-basic</id>
-      <content type="html" xml:base="https://jasonkwak190.github.io/jekyll-basic">&lt;p&gt;이 글은 jekyll basic 입니다.&lt;/p&gt;</content>
+      <content type="html" xml:base="https://jasonkwak190.github.io/jekyll-basic">&lt;p&gt;이 글은 연습용입니다.&lt;/p&gt;</content>
 
       
       
@@ -58,7 +58,7 @@
       
 
       
-        <summary type="html">이 글은 jekyll basic 입니다.</summary>
+        <summary type="html">이 글은 연습용입니다.</summary>
       
 
       
